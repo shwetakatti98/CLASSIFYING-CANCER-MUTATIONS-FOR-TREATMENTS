@@ -1,4 +1,4 @@
-# CLASSIFYING-CANCER-MUTATIONS-FOR-TREATMENTS
+# CLASSIFYING-CANCER-MUTATIONS-FOR-TREATMENT
 
 <p>
   The aim of this project is to develop algorithms to classify the genetic mutations from the given text based clinical evidence. There are nine different classes a genetic mutation can be classified on. This is a major task as interpreting clinical evidence is a challenging problem for the experts and is required for designing necessary treatments. Since this task is extremely time consuming for the pathologists to analyze the data and classify them, our goal is to automate this task efficiently using Machine Learning Models.
